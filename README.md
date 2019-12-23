@@ -1,4 +1,3 @@
-# Reverse-Delay
-A Reverse Delay Max For Live Device
+# reverse-Delay
 
-Records into a four second buffer, reads back
+play in | hear back | time travel
