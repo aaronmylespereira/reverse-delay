@@ -1,3 +1,3 @@
-# reverse-Delay
+# reverse delay
 
 play in | hear back | time travel
